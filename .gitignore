@@ -28,3 +28,8 @@ config
 /*.bak
 /qk/QK.Web/Content/excel
 /qk/QK.Web/Content/img
+/WebpackTest/node_modules
+/.vs/WebpackTest/v15/Server/sqlite3/*.lock
+/.vs/WebpackTest/v15/Server/sqlite3/*.ide
+/.vs/WebpackTest/v15/Server/sqlite3/*.ide-shm
+/.vs/WebpackTest/v15/Server/sqlite3/*.ide-wal

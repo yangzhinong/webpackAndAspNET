@@ -1,0 +1,15 @@
+﻿$color:red;
+
+
+#my {
+    background-color: yellow;
+
+    p {
+        color: $color;
+    }
+
+    ul>li {
+        color: lighten($color,20);
+    }
+}
+
